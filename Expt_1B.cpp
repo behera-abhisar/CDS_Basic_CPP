@@ -26,3 +26,14 @@ int main()
     cout << "Division of " << num_1 << " and " << num_2 << " is " << div_out << endl;
     return 0;
 }
+
+/* Output
+
+Enter the first number: 5
+Enter the second number: 5
+Sum of 5 and 5 is 10
+Subtraction of 5 from 5 is 0
+Multiplication of 5 and 5 is 25
+Division of 5 and 5 is 1
+
+*/
