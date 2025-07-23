@@ -25,3 +25,6 @@ This experiment reinforces understanding of:
 4. Use the `cout` statement to print "Hello, World!" to the console
 5. Return 0 to indicate successful execution
 6. End
+
+## CONCLUSION
+The program was successfully compiled and executed, producing the output "Hello, World!" on the console. This experiment provided hands-on experience with the basic structure of a C++ program and the process of displaying output using the standard I/O library. It forms the foundation for writing more complex programs involving logic and computation.
